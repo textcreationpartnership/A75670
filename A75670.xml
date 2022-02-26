@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of religion; or, The fourteen pillars of the Church of England, presented to our late King Charls at the Isle of Wight, and now humbly tendred to the mature consideration of the Supreme Authority of this nation. Compendiously extracted, and drawn up in these ensuing heads. I. Of faith in the Holy Trinity. II. Of the Word, or Son of God, which was made very man. III. Of Christs descending down into Hell. ... XIV. Of Christ alone without sin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75670</idno>
+            <idno type="STC">Wing A3869</idno>
+            <idno type="STC">Thomason E813_8</idno>
+            <idno type="STC">ESTC R207332</idno>
+            <idno type="EEBO-CITATION">99866389</idno>
+            <idno type="PROQUEST">99866389</idno>
+            <idno type="VID">118661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118661)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E813[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of religion; or, The fourteen pillars of the Church of England, presented to our late King Charls at the Isle of Wight, and now humbly tendred to the mature consideration of the Supreme Authority of this nation. Compendiously extracted, and drawn up in these ensuing heads. I. Of faith in the Holy Trinity. II. Of the Word, or Son of God, which was made very man. III. Of Christs descending down into Hell. ... XIV. Of Christ alone without sin.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Tompkins,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e October] 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Thirty-nine Articles --  Early works to 1800.</term>
+               <term>Church of England --  Doctrines --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118661:1" rendition="simple:additions"/>
+            <p>ARTICLES OF RELIGION; OR, The Fourteen Pillars of the Church of ENGLAND, preſented to our late King CHARLS at the Iſle of WIGHT, and now humbly tendred to the Mature Conſideration of the Supreme Authority of this Nation.</p>
+            <p>Compendiouſly extracted, and drawn up in theſe enſuing Heads.</p>
+            <list>
+               <item>
+                  <hi>I.</hi> Of Faith in the Holy Trinity.</item>
+               <item>
+                  <hi>II.</hi> Of the Word, or Son of God, which was made very Man.</item>
+               <item>
+                  <hi>III.</hi> Of Chriſts deſcending down into Hell.</item>
+               <item>
+                  <hi>IV.</hi> Of the Reſurrection of Chriſt.</item>
+               <item>
+                  <hi>V.</hi> Of the Holy Ghoſt.</item>
+               <item>
+                  <hi>VI.</hi> Of the ſufficiency of the Holy Scriptures for Salvation.</item>
+               <item>
+                  <hi>VII.</hi> Of the Old Teſtament.</item>
+               <item>
+                  <hi>VIII.</hi> Of Original, or Birth-ſin.</item>
+               <item>
+                  <hi>IX.</hi> Of Free-will.</item>
+               <item>
+                  <hi>X.</hi> Of the Juſtification of Man before God.</item>
+               <item>
+                  <hi>XI.</hi> Of Good Works.</item>
+               <item>
+                  <hi>XII.</hi> Of Works before Juſtification.</item>
+               <item>
+                  <hi>XIII.</hi> Of Works of Supererogation.</item>
+               <item>
+                  <hi>XIV.</hi> Of Chriſt alone without Sin.</item>
+            </list>
+            <p>LONDON, Printed for <hi>John Tompkins,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:118661:2"/>
+            <pb n="1" facs="tcp:118661:2"/>
+            <head>ARTICLES OF RELIGION, OR The fourteen Pillars of the Church of ENGLAND, preſented to our late King CHARLS at the Iſle of <hi>Wight,</hi> &amp;c.</head>
+            <div n="1" type="article">
+               <head>
+                  <hi>ARTICLE I.</hi> Of Faith in the holy Trinity.</head>
+               <p>THere is but one<note n="a" place="margin">Iſal 46.9. 1 Cor. 8.4, 6</note> living and true God<note n="b" place="margin">Jer. 10.10. 1 Theſ. 1.9.</note> everlaſting<note n="c" place="margin">Pſal. 90.2. Rom. 16.26.</note> with<g ref="char:EOLhyphen"/>out body, parts<note n="d" place="margin">Deu. 4
+15, 16 Joh 4 24. with Luke 24.39.</note>, or paſſions<note n="e" place="margin">Acts 14.15. Jam
+1.17.</note>; of infinite power<note n="f" place="margin">Jer. 32.17, 27.</note> wiſ<g ref="char:EOLhyphen"/>dom<note n="g" place="margin">Pſal. 147.5. Rom. 11.33.</note>, and goodneſs<note n="h" place="margin">Pſal.
+119.68. with Mat. 19.17.</note>; the maker and preſerver of all things both viſible and inviſible<note n="i" place="margin">Neh. 9.6. Col. 1.16, 17.</note>. And in unity of this Godhead there be three Perſons of one ſubſtance, power, and eternity; the Father, the Son, and the holy Ghoſt<note n="k" place="margin">Matth. 3.16, 17. Matth. 28.19. 1 Ioh. 4.7. 2 Cor. 13
+14.</note>.</p>
+            </div>
+            <div n="2" type="article">
+               <head>
+                  <hi>ART. II.</hi> Of the Word, or Son of God, which was made very Man.</head>
+               <p>The Son, which is the Word of the Father, begotten from everlaſting of the Father<note n="a" place="margin">Pro. 8 22, to 31. Joh. 1 1, 2, 14.</note>, the very<note n="b" place="margin">1 Joh. 5
+20. Rom. 9.5.</note> and eternal God<note n="c" place="margin">Joh. 17.5. Heb. 1.8. with Pſal.
+45.6.</note>, of
+<pb n="2" facs="tcp:118661:3"/>one ſubſtance with the Father<note n="d" place="margin">John 10.30, Heb.
+1.3.</note>, took Mans nature in the womb of the bleſſed Virgin, of her ſubſtance<note n="e" place="margin">Joh. 1.14. Iſa. 7.14. Luke 1.35. Gal. 4.4.</note>: So that two whole and perfect natures, that is to ſay the Godhead and the Manhood, were joyned together in one perſon, never to be divided, whereof is one Chriſt, very God and very Man<note n="f" place="margin">Iſa. 7.14. with Matth. 1.23. Rom. 1.3, 4. Heb. 13.8</note>, who for our ſakes truly ſuffered moſt grievous torments in his ſoul from God<note n="g" place="margin">Iſa.
+53.10, 11 Mark 14.33, 34.</note>, was crucified, dead, and buried<note n="h" place="margin">1 Pet.
+2.24. Phil. 2.8. 1 Cor. 15.3, 4.</note>, to reconcile his Father to us<note n="i" place="margin">Ezek. 16.63. Rom. 3.25. 2 Cor. 5.19.</note>, and to be a Sacrifice, not onely for original guilt, but alſo for actual ſins of men<note n="k" place="margin">Iſa. 53.10. Eph. 5.2.
+1 Joh. 1.7. Heb. 9.26.</note>.</p>
+            </div>
+            <div n="3" type="article">
+               <head>ART. III.</head>
+               <p>As Chriſt died for us, and was buried, ſo it is to be belie<g ref="char:EOLhyphen"/>ved, that he continued in the ſtate of the dead, and under the power and dominion of death<note n="a" place="margin">Pſal.
+16.10. with Acts 2.24, 25, 26, 27, 31.</note>, from the time of his death and Burial until his reſurrection<note n="b" place="margin">Rom. 6.9 Matth. 12.40.</note>: which hath been other<g ref="char:EOLhyphen"/>wiſe expreſſed thus, <hi>He went down into Hell.</hi>
+               </p>
+            </div>
+            <div n="4" type="article">
+               <head>
+                  <hi>ART. IIII.</hi> Of the Reſurrection of Chriſt.</head>
+               <p>Chriſt did truly riſe again from death<note n="a" place="margin">1 Cor. 15.4. Rom. 8.34. Pſal. 16.10. with Acts 2.31. Luk. 24.34</note>, and took again his Body, with Fleſh, Bones, and all things appertaining to the perfection of Mans nature<note n="b" place="margin">Luk. 24 39. with Joh. 20.25, 27.</note>, wherewith he aſcended into Heaven, and there ſitteth<note n="c" place="margin">Pſal. 68.18. with Eph. 4.8. Pſal. 110.1. with Acts 2.34.35. Mar. 16.19. Rom.
+8.34.</note>, untill he return to judge<note n="d" place="margin">Act 3.21. Pſal. 110.1. with 1 Cor. 15.25, 26. Acts 1.11.</note> all Men<note n="e" place="margin">2 Cor. 5.10. Acts 17.31.</note> at the general reſurrection of the Body at the laſt day<note n="f" place="margin">Exod. 3.6. with Luk. 20.37, 38. Acts 24.14, 15. 1 Cor. 15.12. to the end. Joh. 5.28, 29.</note>.</p>
+            </div>
+            <div n="5" type="article">
+               <head>
+                  <hi>ART. V.</hi> Of the Holy Ghoſt.</head>
+               <p>The Holy Ghoſt is very and eternal God, of one ſubſtance<note n="a" place="margin">2 Sam.
+23.2. with verſ. 3. Iſa. 6.5, 8. with Acts 28.25. Acts 5.3, 4. 1 Cor. 3.16. 1 Cor.
+6.19.</note>, Majeſty<note n="b" place="margin">Iob 26.13. Job 33.4. 1 Cor. 12. chap. Mat. 28.19. 2 Cor. 13.14.</note>, and glory with the Father and the Son<note n="c" place="margin">1 Cor. 12.11. Eph. 1.17. and 1 Cor. 2.8. with 1 Pet. 4.14.</note>, procee<g ref="char:EOLhyphen"/>ding from the Father and the Son<note n="d" place="margin">Joh. 15.26. Matth 10.20. and 1 Cor. 2.11, 12. with Gal. 4.6. and Rom. 8.9. and Phil.
+1.9. Joh. 16.14. Iſai. 11, 2. Iſai. 61.1. Gen. 1.2. 2 Chron. 15.1.</note>.</p>
+            </div>
+            <div n="6" type="article">
+               <pb n="3" facs="tcp:118661:3"/>
+               <head>
+                  <hi>ART. VI.</hi> Of the ſufficiency of the holy Scriptures for Salvation.</head>
+               <p>Holy Scripture<note n="a" place="margin">Rom. 1.2. 2 Tim. 3.15. 2 Pet. 1.20, 21.</note> containeth all things neceſſary to ſalva<g ref="char:EOLhyphen"/>tion <note n="b" place="margin">Pſal. 19.7. 2 Tim. 3.15.16, 17. Jam. 1.21, 25. Acts 20.32.</note>; ſo that whatſoever is not read therein, nor may be pro<g ref="char:EOLhyphen"/>ved thereby, is not to be believed as an Article of Faith, or neceſſary to ſalvation<note n="c" place="margin">Prov. 30.5, 6. Iſa. 8.20. Acts 26.22. with ver. 20, 27. Gal. 1.8, 9. Joh.
+5.39.</note>.</p>
+               <p>By the name of holy Scripture, we underſtand all the Ca<g ref="char:EOLhyphen"/>nonical Books of the Old and New Teſtament; which follow.</p>
+               <list>
+                  <item>Of the Old Teſtament, <hi>Geneſis, Exodus,</hi> &amp;c.</item>
+                  <item>Of the New Teſtament, The Goſpel according to <hi>Matthew,</hi> &amp;c.</item>
+               </list>
+               <p>All which Books, as they are commonly received, vve do re<g ref="char:EOLhyphen"/>ceive, and acknowledge them to be given by the inſpiration of God, and in that regard to be of moſt certain credit, and higheſt authority.</p>
+            </div>
+            <div n="7" type="article">
+               <head>
+                  <hi>ART. VII.</hi> Of the Old Teſtament.</head>
+               <p>The Old Teſtament is not contrary to the New, in the doctrine contained in them<note n="a" place="margin">Acts 26.22, 23. 2 Pet. 3.2. Luk. 24.44, Rom. 3.31. Gal. 3.21.23, 24.</note>; for both in the Old and New Teſtament everlaſting life is offered to mankind by Chriſt<note n="b" place="margin">Gen. 3.15. Gen. 22.18. with Gal. 3.8, 14. 1 Cor. 10.2, 3, 4. Luke 1.69.70. Acts 3.24. Iſa. 53. Chap.</note>, who is the onely Mediatour between God and Man<note n="c" place="margin">Dan. 9.17. Rom. 8.34. 1 Joh. 2.1. Heb. 7.25. 1 Tim. 2.5 Ioh. 14.6.</note>, be<g ref="char:EOLhyphen"/>ing both God and Man<note n="d" place="margin">Gol. 4.4.5. Acts 20.28. Phil. 2.7, 8.</note>. Wherefore they are not to be heard, which feign, that the old Fathers did look onely for temporary promiſes<note n="e" place="margin">Acts 26.6, 7 Rom. 4.11. Gal. 3.9. Heb. 11.10, 16, 35.</note>.</p>
+               <p>Although the Lavv given from God by <hi>Moſes,</hi> as tou<g ref="char:EOLhyphen"/>ching Ceremonies and Rites, do not bind Chriſtians<note n="f" place="margin">Gal. 4.9, 10. Col. 2.14, 16, 17. Heb. 9.9, 10.</note>; nor the Civil precepts given by <hi>Moſes,</hi> ſuch as were peculiarly
+<pb n="4" facs="tcp:118661:4"/>fitted to the Common-wealth of the Jews, are of neceſſity to be received in any Common-wealth<note n="g" place="margin">Acts 25.9, 10, 25. with Deut. 17.8, to 13. Rom 13 1, 5.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 3.1. 1 Pet. 2.13, 14.</note>: yet notwithſtanding no Chriſtian man whatſoever is free from the obedience of the Commandements which are called Moral<note n="h" place="margin">Matth.
+5.17, to the end. Rom. 13.8, 9, 10. Eph. 6.1, 2, 3. Iam. 2.8, 9, 10, 11, 12. Rom. 7.25. Rom. 3.31. Matth. 7.12.</note>. By the Mo<g ref="char:EOLhyphen"/>ral Law we underſtand all the ten Commandements taken in their full extent.</p>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>ART. IX.</hi> Of Original, or Birth-ſin.</head>
+               <p>Original ſin<note n="a" place="margin">Pſal. 51.5. Ioh. 3.5, 6.</note> ſtandeth not in the following of <hi>Adam,</hi> as the Pelagians do vainly talk<note n="b" place="margin">Iob 14.4. Iob
+15.14. Rom. 6.6. Iohn 3.3, 5, 7.</note>: But, together with his firſt ſin imputed<note n="c" place="margin">Rom. 5.12, to 19. Gen. 2.17. with 1 Cor. 15.22.</note>, it is the fault and corruption of the nature of every Man, that naturally is propagated from <hi>Adam;</hi> whereby Man is wholly deprived of Original righteouſneſs<note n="d" place="margin">Col. 2.13. Rom. 7.18. Eccleſ.
+7.29.</note>, and is of his own nature inclined onely to evil<note n="e" place="margin">Gen. 6.5. Gen. 8.21. Ier. 17.9. Rom. 7.8. Iames 1.14.</note>. So that the luſt of the fleſh, called in Greek <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſome do expound the Wiſdom, ſome Senſuality, ſome the Affection, ſome the Deſire of the fleſh, is not ſubject to the Law of God<note n="f" place="margin">Rom. 8.7. 1 Cor. 2.14 Col. 1.2.</note>, and therefore in every perſon Born into this world, it deſer<g ref="char:EOLhyphen"/>veth Gods wrath and damnation<note n="g" place="margin">Epheſ. 2.3. Rom. 8.6,
+7.</note>. And this infection of na<g ref="char:EOLhyphen"/>ture doth remain, yea in them that are regenerate<note n="h" place="margin">Prov. 20.9. Rom. 7.17, 20, 23, 25.</note>, whereby the fleſh luſteth alwaies contrary to the Spirit<note n="i" place="margin">Gal. 5.17.</note>. And although there is no condemnation for them that are regenerate and do believe<note n="k" place="margin">Rom. 8.1, 13. Ioh.
+3.18.</note>, yet the Apoſtle doth confeſs that concupiſ<g ref="char:EOLhyphen"/>cence and luſt is truly and properly ſin<note n="l" place="margin">Rom. 7.17, 20.</note>.</p>
+            </div>
+            <div n="10" type="article">
+               <head>
+                  <hi>ART. X.</hi> Of Free-will.</head>
+               <p>The condition of Man after the fall of <hi>Adam</hi> is ſuch, that he cannot turn or prepare himſelf, by his own natural ſtrength and good works, to faith and calling upon God<note n="a" place="margin">Epheſ. 2.1, 5. 1 Cor. 2.14. Eph. 2.8, 9, 10. John 6.44, 65.</note>; wherefore we have no power to do good work plea<g ref="char:EOLhyphen"/>ſing and acceptable to God<note n="b" place="margin">Rom. 8.8. Heb. 11.6.</note>, without the grace of God by Chriſt, both preventing us, that we may have a good
+<pb n="5" facs="tcp:118661:4"/>Will, and working ſo effectually in us, as that it deter<g ref="char:EOLhyphen"/>mineth our Will to that which is good<note n="c" place="margin">Ezek. 11.19.20. Ezek. 36.26, 27. Jer. 31, 32 33. with Heb <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.10, 11. Phil. 2.12, 13. Joh. 6.45. Eph.
+1.19 20. 1 Cor. 4.7.</note>, and alſo wor<g ref="char:EOLhyphen"/>king with us when we have that will unto good<note n="d" place="margin">Heb. 13.21. Phil. 1.6. Heb. 122.2. 1 Pet. 5.10. 1 Theſſ. 5.23, 24. 1 Kings
+8.57, 58.</note>.</p>
+            </div>
+            <div n="11" type="article">
+               <head>
+                  <hi>ART. XI.</hi> Of the Juſtification of man before God.</head>
+               <p>We are juſtified, that is, we are accounted Righteous before God, and have remiſſion of ſins<note n="a" place="margin">Rom. 4.5, 6, 7. Pſal. 32.1, 2.</note>, not for nor by our own works or deſervings<note n="b" place="margin">Rom. 3.20. Gal. 2.16. Gal. 3.10, 11. Phil. 3.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>, but freely by his grace
+<note n="c" place="margin">Rom. 3.24. Tit. 3.7.</note>, only for our Lord and Saviour Jeſus Chriſts ſake<note n="d" place="margin">Rom. 3.24, 25. Rom. 5.1. 2 Cor. 5.18, 19.</note>, his whole obedience and ſatisfaction being by God imputed unto us<note n="e" place="margin">Rom. 5.9,
+17, 18, 19. Rom. 3.25, 26. Rom. 4.6, 24. 2 Cor. 5.21.</note>, and Chriſt with his Righteouſneſs, being ap<g ref="char:EOLhyphen"/>prehended and reſted on by faith only<note n="f" place="margin">Rom.
+3.22, 25, 26, 28. Gal. 2.16. Iſa. 28.16. with Rom. 9.33. and 1 Pet. 2.6. Phil. 3.9.</note>. The doctrine of Juſtification by Faith only, is an wholſom Doctrine, and very full of comfort<note n="g" place="margin">2 Tim. 1.13. Rom. 5.1, 2, 8, 11. Rom. 15.13. 1 Pet. 1.8.</note>: notwithſtanding God doth not forgive them that are impenitent, and go on ſtill in their treſpaſſes<note n="h" place="margin">Pſal. 68.20, 21. Exod. 34.6, 7. Luke 13.3,
+5.</note>.</p>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>ART. XII.</hi> Of good Works.</head>
+               <p>Good works, which are the Fruits of Faith<note n="a" place="margin">Gal. 5.6. Jam. 2.17, 18,
+22.</note>, and fol<g ref="char:EOLhyphen"/>low after Juſtification<note n="b" place="margin">Tit. 2.14. Tit 3.7, 8. Eph.
+2.8, 9, 10.</note>, cannot put away our ſins<note n="c" place="margin">Rom. 3.20, 21. Rom. 4.4, to
+9. Dan. 9.18, 19.</note>, and endure the ſeverity of Gods Judgment<note n="d" place="margin">Neh.
+13.22. Pſal. 143.2. Job 9.14.15, 19, 20.</note>; yet are they, not<g ref="char:EOLhyphen"/>withſtanding their imperfections<note n="e" place="margin">Exod. 28.38. Rev. 8.3, 4.</note>, in the ſight of God pleaſing and acceptable unto him in and for Chriſt<note n="f" place="margin">1 Pet. 2.5. Heb.
+13.16, 20, 21. Col. 1.10. Phil. 4.18.</note>, and do ſpring out neceſſarily of a true and lively Faith<note n="g" place="margin">Jam. 2.16. 1 John 1.4.</note>, in ſo much that by them a lively Faith may be evidently known, as a tree diſcerned by the fruits<note n="h" place="margin">Jam. 2.18, 22, John 15.4, 5. 1 John 2.3.5. Matth. 12.33.</note>.</p>
+            </div>
+            <div n="13" type="article">
+               <pb n="6" facs="tcp:118661:5"/>
+               <head>
+                  <hi>ART. XIII.</hi> Of Works before Juſtification.</head>
+               <p>Works done before Juſtification by Chriſt, and Rege<g ref="char:EOLhyphen"/>neration by his Spirit, are not pleaſing unto God<note n="a" place="margin">Tit. 1.15, 16. Matth 7.18. Rom. 8.8. Prov. 15.8, 26. Prov. 21.27. Rom. 3.12.</note>, for as much as they ſpring not of Faith in Jeſus Chriſt<note n="b" place="margin">Hebr. 11.5.6. Gal. 5.6.</note>; neither do they make men meet to receive grace, or (as the School-Authors ſay) deſerve grace of Congruity<note n="c" place="margin">2 Tim. 1.9. John 1.13.</note>; yea rather, for that they are not done as God hath willed and comman<g ref="char:EOLhyphen"/>ded them to be done, they are ſinfull<note n="d" place="margin">Rom. 8, 7, 8. Hagg. 2.14 Iſa. 58.1, to 5. Iſa. 66.2, 3.</note>.</p>
+            </div>
+            <div n="14" type="article">
+               <head>
+                  <hi>ART. XIV.</hi> Of Works of Supererogation.</head>
+               <p>Voluntary Works, beſides, over and above Gods Com<g ref="char:EOLhyphen"/>mandements, which they call <hi>Works of Supererogation,</hi> can<g ref="char:EOLhyphen"/>not be taught<note n="a" place="margin">Matth. 5.48. Mar. 12.30, 31. Phil.
+4.5, 9.</note> without arrogancy and impiety<note n="b" place="margin">Job 9.2, 3.20, 21. Pſal.
+143.2. Prov. 20.9. Phil. 3.8, to 15.</note>: for by them men do declare that they do not only render unto God as much as they are bound to do; but that they do more for his ſake than of bounden duty is required; where<g ref="char:EOLhyphen"/>as Chriſt ſaith plainly, <hi>When you have done all thoſe things that are commanded you, ſay, We are unprofitable ſervants, we have done that which was our duty to do</hi>
+                  <note n="c" place="margin">Luke 17.10. with ver. 7, 8, 9.</note>.</p>
+            </div>
+            <div n="15" type="article">
+               <head>
+                  <hi>ART. XV.</hi> Of Chriſt alone without ſin.</head>
+               <p>Chriſt in the truth of our nature, was made like unto us in all things, ſin only excepted<note n="a" place="margin">Iſa. 53.3, 4, 5. Heb. 2.17. with Heb. 5.15.</note>, from which he was cleer<g ref="char:EOLhyphen"/>ly void both in his Fleſh and in his Spirit<note n="b" place="margin">Luke 1.35. with Act. 3.14. John 14.30. 2 Cor. 5.21. Heb. 7.26.</note>: he came to be the Lamb without ſpot<note n="c" place="margin">1 Pet. 1.19.</note>, who by Sacrifice of Himſelf<note n="d" place="margin">Epheſ.
+5.2.</note> once made<note n="e" place="margin">Heb. 9.26, 28. Heb. 10.10, 12.</note>, ſhould take away the ſins of the world<note n="f" place="margin">John 1.29.</note>; and ſin (as Saint
+<hi>John</hi> ſaith) was not in him<note n="g" place="margin">1 John 3.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>. But all we the reſt, although baptized and regenerate, yet offend in many things; and <hi>if we ſay we have no ſin, we deceive our ſelves, and the truth is not in us</hi>
+                  <note n="h" place="margin">James 3.2. 1 John 1.8,
+10.</note>.</p>
+               <closer>
+                  <signed>Charles Herle <hi>Prolocutor.</hi>
+                  </signed>
+                  <signed>Henry Robrough <hi>Scriba.</hi>
+                  </signed>
+                  <signed>Adoniram Byfield <hi>Scriba.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="rules">
+            <pb n="7" facs="tcp:118661:5"/>
+            <head>Rules and Directions CONCERNING Suſpenſion from the SACRAMENT OF THE LORDS SVPPER in caſe of Ignorance.</head>
+            <p n="1">1. ALl ſuch perſons who ſhall be admitted to the Sacrament of the Lords Supper ought to know that there is a God, that there is but one ever-living and true God, maker of Hea<g ref="char:EOLhyphen"/>ven and Earth, and Governour of all things; That this onely true God, is the God whom we worſhip; that this God is but one, yet three diſtinct Perſons, the Father, Son, and Holy Ghoſt, all equally God.</p>
+            <p n="2">2. That God created man after his own Image, in know<g ref="char:EOLhyphen"/>ledge, righteouſneſs, and true holineſs; That by one man ſin entred into the World, and death by ſin, and ſo death paſſed upon all men, for that all have ſinned; That there<g ref="char:EOLhyphen"/>by they are all dead in treſpaſſes and ſins, and are by nature the children of wrath, and ſo lyable to eternal death, the wages of every ſin.</p>
+            <pb n="8" facs="tcp:118661:6"/>
+            <p n="3">3. That there is but one Mediator between God and Man the Man Chriſt Jeſus, who is alſo over all, God bleſ<g ref="char:EOLhyphen"/>ſed for ever, neither is there ſalvation in any other; That he was conceived by the holy Ghoſt, and Born of the Virgin <hi>Mary;</hi> That he dyed upon the Croſs to ſave his people from their Sins; That he roſe again the third day from the dead, aſcended into Heaven, ſits at the right hand of God, and makes continual interceſſion for us, of whoſe fulneſs we receive all grace neceſſary to ſalvation.</p>
+            <p n="4">4. That Chriſt and his benefits are applyed onely by faith; That faith is the gift of God, and that we have it not of our ſelves, but it is wrought in us by the Word and Spirit of God.</p>
+            <p>That faith is that grace whereby we believe and truſt in Chriſt for remiſſion of ſins and life everlaſting, according to the promiſe of the Goſpel, that whoſoever believes not on the Son of God, ſhall not ſee life, but ſhall periſh e<g ref="char:EOLhyphen"/>ternally.</p>
+            <p>That they who truly repent of their ſins do ſee them, ſor<g ref="char:EOLhyphen"/>row for them, and turn from them to the Lord, and that ex<g ref="char:EOLhyphen"/>cept men repent they ſhall ſurely periſh.</p>
+            <p>That a godly life is conſcionably ordered according to the word of God, in Holineſs and Righteouſneſs, without which no man ſhall ſee God.</p>
+            <p>That the Sacraments are Seals of the Covenant of Grace in the blood of Chriſt: That the Sacraments of the new Teſtament are Baptiſm and the Lords Supper; that the outvvard Elements in the Lords Supper are Bread and Wine, and do ſignifie the Body and Blood of Chriſt Crucified, vvhich the vvorthy Receiver by Faith, doth partake of in this Sacrament, which Chriſt hath likewiſe Ordained for a re<g ref="char:EOLhyphen"/>membrance of his death, that whoſoever eats and drinks unworthily, is guilty of the Body and Blood of the Lord, and therefore that every one is to examine himſelf, leſt he eat and drink Judgement to himſelf, not diſcerning the Lords Body.</p>
+            <pb n="9" facs="tcp:118661:6"/>
+            <p>That the Souls of the faithful after death do immediatly live with Chriſt in Bleſſedneſs, and that the Souls of the wic<g ref="char:EOLhyphen"/>ked do immediatly go into Hell torments. That there ſhall be a Reſurrection of the Bodies both of the juſt and unjuſt at the laſt Day, at which time all ſhall appear before the Judge<g ref="char:EOLhyphen"/>ment Seat of Chriſt to receive according to what they have done in the Body, whether it be good or evil: And that the righteous ſhall go into life eternal and the wicked into ever<g ref="char:EOLhyphen"/>laſting puniſhment.</p>
+            <p>And it is further Ordained by the Lords and Commons, That thoſe who have a competent meaſure of underſtan<g ref="char:EOLhyphen"/>ding concerning the matters contained in theſe Articles, ſhall not be kept back from the Sacrament of the Lords Supper for Ignorance; And that the Examination and Judgement of ſuch Perſons as ſhall for their ignorance of the aforeſaid points of Religion not to be admitted to the Sacrament of the Lords Supper, is to be in the power of the Elderſhip of every Congregation.</p>
+            <pb n="10" facs="tcp:118661:7"/>
+            <p n="15">15. That an Act or Acts of Parliament be paſſed, That the Deputy or chief Governor, or other Governours of <hi>Ireland,</hi> and the Preſidents of the ſeveral Provinces of that Kingdom, be nominated and made in ſuch way as by both Houſes of the Parliament of
+<hi>England</hi> ſhall be appointed, or in the Interv<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of Parliament by ſuch Committees as ſhall be appointed by both Houſes of Parliament, to con<g ref="char:EOLhyphen"/>tinue during the pleaſure of both Houſes; And that the Chancellor, or Lord Keeper, Lord Treaſurer, Commiſ<g ref="char:EOLhyphen"/>ſioners of the Great Seal or Treaſury, Lord High Admi<g ref="char:EOLhyphen"/>ral of
+<hi>England,</hi> Commiſſioners of the Admiralty, Lord Warden of the Cinque Ports, Chancellor of the Exche<g ref="char:EOLhyphen"/>quer and Dutchy, Secretaries of State, Maſters of the Rolls, Judges of both Benches, and Barons of the Ex<g ref="char:EOLhyphen"/>chequer of the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> the Conſtable and Lieutenant of the Tower of <hi>London,</hi> and the Vice-Treaſurer, and Treaſurer at Wars of the King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> Be nominated and made in ſuch way as by both Houſes of the Parliament of <hi>England</hi> ſhall be ap<g ref="char:EOLhyphen"/>pointed to continue <hi>Quam diu ſe bene geſſerint,</hi> and in the Intervals of Parliament, by the ſaid Committee appointed by both Houſes of Parliament as aforeſaid, to be approved or diſallowed by both Houſes at their next meeting.</p>
+            <p n="16">16. That for the more effectual diſabling of Jeſuits, Papiſts, and Popiſh Recuſants, from diſturbing the State, and deluding the Laws, and for the better diſcovering and ſpeedy conviction of Popiſh Recuſants an Oath be eſta<g ref="char:EOLhyphen"/>bliſhed by Act of Parliament to be adminiſtred to them, wherein they ſhall abjure and renounce the Popes Supre<g ref="char:EOLhyphen"/>macy, the Doctrine of Tranſubſtantiation, Purgatory, Worſhipping of the Conſecrated Hoſt, Crucifixes and I<g ref="char:EOLhyphen"/>mages, and all other Popiſh Superſtitions and Errors; and refuſing the ſaid Oath, being tendred in ſuch manner as ſhall be appointed by the ſaid Act, to be a ſufficient con<g ref="char:EOLhyphen"/>viction of Popiſh Recuſancy.</p>
+            <pb n="11" facs="tcp:118661:7"/>
+            <p n="17">17. An Act or Acts of Parliament for Education of the Children of Papiſts by Proteſtants, in the Proteſtant Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p n="18">18. An act or acts for the true Leavy of the Penalties a<g ref="char:EOLhyphen"/>gainſt them; which Penalties to be Leavied and Diſpoſed in ſuch manner as both Houſes ſhall agree on.</p>
+            <p n="19">19. That an Act or Acts be paſſed in Parliament, wher<g ref="char:EOLhyphen"/>by the practiſes of Papiſts againſt the State may be preven<g ref="char:EOLhyphen"/>ted, and the Laws againſt them duly executed, and a ſtri<g ref="char:EOLhyphen"/>cter courſe taken to prevent the ſaying or hearing of Maſs in the Court, or any other part of this Kingdom, or the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>The like for the Kingdom of <hi>Ireland,</hi> concerning the four laſt preceding Propoſitions.</p>
+            <p n="20">20. That the King do give his Royal Aſſent to an Act or Acts for the due Obſervation of the Lords-day.</p>
+            <p n="21">21. And to the Bill for the ſuppreſsion of Innovations in Churches and Chappels, in and about the Worſhip of God.</p>
+            <p n="22">22. And for the better advancement of the Preaching of Gods Holy Word, in all parts of this Kingdom.</p>
+            <p n="23">23. And to the Bill againſt the enjoying Pluralities of Benefices, by Spiritual perſons and Non-reſidency.</p>
+            <p>They have alſo Commanded us to deſire. That your Majeſty give your Royal Aſſent to theſe Bills, by your Letters Parents under the Great Seal of <hi>England,</hi> and Signed by your Hand, and Declared and Notified to the Lords and Commons aſſembled together in the Houſe of
+<pb n="12" facs="tcp:118661:8"/>Peers, according to the Law declared in that behalf, it ap<g ref="char:EOLhyphen"/>pearing unto them upon mature deliberation, that it ſtands not with the ſafety and ſecurity of the Kingdom and Par<g ref="char:EOLhyphen"/>liament, to have your Majeſties aſſent at this time given o<g ref="char:EOLhyphen"/>therwiſe; They deſire therefore, that your Majeſty be plea<g ref="char:EOLhyphen"/>ſed to grant your Warrant for the draught of a Bill for ſuch your Letters Patents, to be preſented to your Majeſty, and then a Warrant to
+<hi>Edward</hi> Earl of <hi>Mancheſter,</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam Lenthal</hi> Eſquire, Speaker of the Houſe of Commons, who have now the Cuſtody of the Great Seal of <hi>England,</hi> to put the ſame to ſuch your Majeſties Letters Pateuts Signed as aforeſaid, thereby authorizing
+<hi>Algernon</hi> Earl of <hi>Northumberland, Henry</hi> Earl of <hi>Kent, John</hi> Earl of
+<hi>Rutland, Philip</hi> Earl of <hi>Pembrook, William</hi> Earl of <hi>Salisbury, Robert</hi> Earl of <hi>Warwick,</hi> and <hi>Edmund</hi> Earl of <hi>Mulgrave,</hi> or any three of them, to give your Majeſties Royal aſſent unto the ſaid Bills, according to the Law in that behalf Decla<g ref="char:EOLhyphen"/>red: And for the other particulars contained in the afore<g ref="char:EOLhyphen"/>mentioned Propoſitions, the two Houſes of Parliament will after ſuch your Majeſties aſſent given to the ſaid Bills, ſend a Committee of both Houſes to Treat with your Ma<g ref="char:EOLhyphen"/>jeſty in the Iſle of <hi>Wight</hi> thereupon.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118661:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
